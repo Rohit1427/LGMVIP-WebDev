@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-image: url("components/image2.jpg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-color: #cccccc;
+  font-family: URW Chancery L, cursive;
+}
+h4 {
+  font-size: 20px;
+  margin-left: 480px;
+  margin-top: -20px;
+  color: white;
+}
